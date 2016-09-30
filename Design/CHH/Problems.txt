@@ -7,7 +7,7 @@
 3. Unable to support undo feature
 - Memento
 
-4.Each UI interacts with control differently, poor extensiblity
+4.Each UI interacts with control differently, poor extensibility and maintenability
 - Command
 
 5.
