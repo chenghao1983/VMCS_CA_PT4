@@ -10,4 +10,7 @@
 4.Each UI interacts with control differently, poor extensibility and maintenability
 - Command
 
-5.
+5. Does not support other storage
+- Bridge
+
+6. 
